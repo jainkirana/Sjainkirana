@@ -1,31 +1,31 @@
 [
   {
-    "name": "Aashirvaad Atta",
+    "name": "Rajesh Atta",
     "price": 190,
     "weight": "5kg",
     "category": "Aata"
   },
   {
-    "name": "Moong Dal",
+    "name": "Arhar Dal",
     "price": 90,
     "weight": "1kg",
-    "category": "Aata"
+    "category": "Dal"
   },
   {
     "name": "Haldi Powder",
-    "price": 30,
+    "price": 65,
     "weight": "100gm",
     "category": "Masale"
   },
   {
     "name": "Lal Mirch Powder",
-    "price": 35,
+    "price": 70,
     "weight": "100gm",
     "category": "Masale"
   },
   {
     "name": "Fortune Oil",
-    "price": 150,
+    "price": 160,
     "weight": "1L",
     "category": "Oil"
   },
